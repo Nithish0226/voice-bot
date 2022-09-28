@@ -1,0 +1,4 @@
+trainId,fromStation,toStation,onBoardDate,onBoardTime,arrivalDate,arrivalTime,avilability2A,avilability3A,avilabilitySL
+1,chennai,ooty,07/08/22,13:24,08/08/22,03:00,94,50,20
+2,ooty,chennai,08/08/22,4:24,09/08/22,15:00,65,53,30
+3,Hyderabad,chennai,20/09/2022,16:00,21/09/2022,08:00,16,10,3

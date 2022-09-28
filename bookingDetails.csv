@@ -1,0 +1,7 @@
+ticketID,customerID,trainId,fromStation,toStation,onBoardDate,onBoardTime,arrivalDate,arrivalTime,class,numberOfTicket
+
+f92e04bf-37f3-11ed-b848-dcfb48e0b4fa,suthersan@gmail.com,1,chennai,ooty,07/08/22,13:24,08/08/22,03:00,SL,4
+7c99df90-37f4-11ed-9d90-dcfb48e0b4fa,suthersan@gmail.com,1,chennai,ooty,07/08/22,13:24,08/08/22,03:00,SL,3
+a00ed271-37f4-11ed-9ade-dcfb48e0b4fa,suthersan@gmail.com,3,Hyderabad,chennai,20/09/2022,16:00,21/09/2022,08:00,SL,2
+1b9e6835-381d-11ed-a29a-dcfb48e0b4fa,prasheetha@gmail.com,3,Hyderabad,chennai,20/09/2022,16:00,21/09/2022,08:00,2A,2
+2ee2d749-3893-11ed-a0cc-dcfb48e0b4fa,joe@gmail.com,3,Hyderabad,chennai,20/09/2022,16:00,21/09/2022,08:00,2A,2

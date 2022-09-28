@@ -1,0 +1,37 @@
+{"intents":
+        [
+	    
+            {
+              "tag": "hi",
+              "patterns": ["hello","hi"],
+              "responses": ["welcome"],
+              "context_set": ""
+            },
+           {
+            "tag": "sign up",
+            "patterns": ["sign up","new user","register"],
+            "responses": ["signUp"],
+            "context_set": ""
+           },
+           {
+            "tag": "book",
+            "patterns": ["book","book ticket"],
+            "responses": ["book"],
+            "context_set": ""
+           },
+           {
+            "tag": "view",
+            "patterns": ["view ticket","show ticket","ticket"],
+            "responses": ["view"],
+            "context_set": ""
+           },
+           {
+            "tag": "",
+            "patterns": [""],
+            "responses": [""],
+            "context_set": ""
+           }
+           
+        ]
+}
+        
